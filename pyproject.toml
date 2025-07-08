@@ -1,0 +1,13 @@
+[tool.semantic_release]
+version_variable = "version.py:__version__"
+branch = "main"
+upload_to_release = true
+upload_to_pypi = false
+build_command = ""
+changelog_file = "CHANGELOG.md"
+
+[tool.semantic_release.commit_parser_options]
+allowed_tags = ["feat", "fix", "test", "perf", "major"]
+patch_tags = ["fix", "test", "perf"]
+minor_tags = ["feat"]
+major_tags = ["major"]
