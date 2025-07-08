@@ -5,7 +5,6 @@ upload_to_release = true
 upload_to_pypi = false
 build_command = ""
 changelog_file = "CHANGELOG.md"
-tag_format = "{version}"
 
 [tool.semantic_release.commit_parser_options]
 allowed_tags = ["feat", "fix", "test", "perf", "major"]
