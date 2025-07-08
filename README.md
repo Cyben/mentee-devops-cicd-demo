@@ -1,3 +1,3 @@
 # mentee-devops-cicd-demo
 
-Feat Commit 1
+Test Commit 1
