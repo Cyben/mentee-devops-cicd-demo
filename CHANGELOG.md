@@ -2,6 +2,14 @@
 
 <!-- version list -->
 
+## v1.2.0 (2025-07-08)
+
+### Features
+
+- Feature commit
+  ([`8a85f63`](https://github.com/Cyben/mentee-devops-cicd-demo/commit/8a85f6351c0dc02a69482a4e9157d5f336eab29a))
+
+
 ## v1.1.0 (2025-07-08)
 
 
